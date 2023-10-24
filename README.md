@@ -1,6 +1,7 @@
 # Random_Avatar_Generator
 The Creative Avatar Generator is a powerful API built with FastAPI that allows users to generate unique avatars based on a seed string of their choice.
 This tool provides avatars in both SVG and PNG formats, making it versatile and customizable.
+ 
 # Usage
 ## Generating a custom avatar with the Creative Avatar Generator is a very simple process:<br>  
 
@@ -9,6 +10,10 @@ This tool provides avatars in both SVG and PNG formats, making it versatile and 
 3. Select the Format: Choose your desired format (SVG or PNG) from the drop-down menu.  
 4. Generate Avatar: Click the "Generate Avatar" button, and the tool will produce your unique avatar.  
 5. View Your Avatar: The Creative Avatar Generator will display your avatar on the same page.  
+
+
+# VIDEO
+https://github.com/anushrevankar24/-Random_Avatar_Generator/assets/129506519/fb722f50-1680-4b21-9c09-ac3098826075
 
 # Documentation
 The Python code is thoroughly documented with comments to enhance code understanding. The HTML templates used for the web interface are stored in the templates/ directory.
