@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Getting Started with Creative Avatar Generator API</title>
+</head>
+<body>
+    <h1>Getting Started with Creative Avatar Generator API</h1>
+    <!-- <h2>Generate Random Avatars</h2>
+    <p>To generate a random avatar in SVG format, visit: <a href="/random">/random</a></p>
+    <p>To generate a random avatar in PNG format, add <strong>?format=png</strong> to the URL: <a href="/random?format=png">/random?format=png</a></p> -->
+    <h2>Generate Random Avatars based on the random string passed to the API endpoint </h2>
+    <form action="/generate" method="get">
+        <label for="seed">Enter Seed:</label>
+        <input type="text" id="seed" name="seed" required>
+        
+        <label for="format">Select Format:</label>
+        <select name="format">
+            <option value="svg">SVG</option>
+            <option value="png">PNG</option>
+        </select>
+        
+        <button type="submit">Generate Avatar</button>
+    </form>
+
+</body>
+</html>
+</body>
+</html>
