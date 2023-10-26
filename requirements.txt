@@ -8,5 +8,5 @@ pyavatar==0.1.4
 pydantic==2.4.2
 pydantic_core==2.10.1
 requests==2.28.2
-uvicorn==0.23.2
+uvicorn==0.22.0
 
