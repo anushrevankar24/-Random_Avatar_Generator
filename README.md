@@ -13,7 +13,8 @@ This tool provides avatars in both SVG and PNG formats, making it versatile and 
 
 
 # VIDEO
-https://github.com/anushrevankar24/-Random_Avatar_Generator/assets/129506519/fb722f50-1680-4b21-9c09-ac3098826075
+**Check out the working video of my project**     
+[Video Link](https://drive.google.com/file/d/1QCTgg5eIxGEy9KrujhFUxparjG448NlP/view?usp=drivesdk)
 
 # Documentation
 The Python code is thoroughly documented with comments to enhance code understanding. The HTML templates used for the web interface are stored in the templates/ directory.
